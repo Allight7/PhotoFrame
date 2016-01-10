@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoFrame</string>
+    <string name="main_auth_title">Авторизация в Я.Диск</string>
+    <string name="main_auth_message">Открыть браузер для авторизации?</string>
+    <string name="main_auth_positive_button">Да</string>
+    <string name="main_auth_negative_button">Выйти</string>
+    <string name="main_auth_success">OAuth-токен сохранен</string>
+</resources>
